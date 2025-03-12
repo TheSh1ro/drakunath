@@ -19,7 +19,6 @@
 #header {
   background-color: rgba(0, 0, 0, 0.9);
   border-radius: 12px;
-  height: 55px;
 
   display: flex;
   padding-inline: 1rem;
@@ -53,7 +52,7 @@
   font-weight: 600;
   font-size: 1.3rem;
   border-bottom: 2px solid transparent;
-  padding-block: 0.65rem;
+  padding-block: 1.4rem;
   padding-inline: 1.2rem;
 }
 
